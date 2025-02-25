@@ -1,7 +1,7 @@
 
 # Mes Projets
 
-Bienvenue dans ce répertoire ! Ce projet contient plusieurs projets sur lesquels j'ai travaillé, principalement dans le cadre de mes études et de mon développement personnel. Chaque projet a sa propre fonctionnalité et objectif. Ce répertoire vous donne un aperçu de mon travail dans divers domaines tels que la modélisation statistique, l'analyse de données, la biostatistique, et bien plus encore.
+Bienvenue dans ce répertoire ! Ce projet contient plusieurs projets sur lesquels j'ai travaillé, principalement dans le cadre de mes études et de mon développement personnel. Chaque projet a sa propre fonctionnalité et objectif. Ce répertoire vous donne un aperçu de mon travail dans divers domaines tels que la modélisation statistique, l'analyse de données, la biostatistique, et bien plus encore. Certains de ses projets on été fait en groupe.
 
 ## Objectifs de ces Projets
 
