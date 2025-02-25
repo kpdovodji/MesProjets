@@ -1,0 +1,26 @@
+Adresse,Type,Prix,Surface,DistanceFac,ProximiteBus,DureeBus,ProximiteCV,Etat,CommentairesSupplementaires
+12 Rue des Roses,T1,450,20,2.5,5,15,1.5,Bon état,Près du parc
+34 Avenue de la République,T1,410,22,3.0,3,12,2.0,Assez bien,Proche commerces
+7 Boulevard de la Liberté,Colocation,450,18,1.8,8,20,3.0,À rénover,Aucun commerce à proximité
+56 Rue du Moulin,T1,430,21,2.0,4,14,1.7,Très bon état,Appartement lumineux
+23 Place de la Gare,Colocation,350,17,3.2,7,18,2.2,Bon état,Près des transports
+3 Rue de la République,T1,550,19,2.3,6,16,1.8,Assez bien,En étage élevé
+20 Rue Pasteur,T1,360,23,3.5,5,13,1.9,Bon état,Appartement calme
+15 Rue des Jardins,Colocation,470,20,2.8,5,17,2.5,Très bon état,Cuisine équipée
+6 Rue de l'École,T1,480,21,2.1,4,12,1.6,Bon état,Proche commerces
+8 Rue de la Liberté,Colocation,450,19,3.0,7,19,2.3,À rénover,Idéal pour étudiants
+19 Rue de la Montagne,T1,520,22,2.9,6,15,1.7,Bon état,Vue dégagée
+34 Rue de l'Université,T1,400,24,3.0,3,10,1.8,Très bon état,Près des transports
+17 Rue de la Gare,Colocation,420,18,2.2,8,20,2.7,Bon état,Proche université
+2 Rue des Prés,T1,390,19,2.4,5,14,2.0,Assez bien,Appartement spacieux
+14 Rue de la Paix,T1,600,25,3.5,3,11,1.5,Bon état,Quartier calme
+9 Rue de la Ville,Colocation,360,21,2.6,6,18,2.4,Bon état,À proximité des transports
+11 Rue des Lilas,T1,500,20,2.2,4,12,1.9,Bon état,Récemment rénové
+10 Rue des Champs,T1,390,18,1.9,5,16,2.1,À rénover,Bon rapport qualité-prix
+5 Rue du Centre,Colocation,480,22,2.8,7,20,2.2,Très bon état,Grande pièce de vie
+18 Rue du Parc,T1,430,19,2.5,6,14,1.8,Bon état,Vue sur parc
+25 Rue de la Maison Blanche,Colocation,440,17,3.0,8,19,2.5,Assez bien,Proche du centre commercial
+13 Rue du Bois,T1,500,24,3.3,5,13,1.7,Bon état,Quartier résidentiel
+12 Rue des Fleurs,Colocation,450,19,2.7,6,15,2.1,Bon état,Facilité d'accès transports
+4 Rue du Soleil,T1,420,20,2.0,4,14,1.6,Assez bien,Près de l'université
+16 Rue du Corbeau,T1,540,21,2.5,5,15,1.9,Bon état,À côté du parc
