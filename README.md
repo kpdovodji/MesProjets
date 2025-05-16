@@ -22,7 +22,7 @@ Ensuite, vous pouvez naviguer dans chaque dossier de projet pour voir le code so
 
 ## Auteurs
 
-- **Pierre Dovodji** : [Votre LinkedIn](https://www.linkedin.com/in/pierre-dovodji-52535222a)  
+- **Pierre Dovodji** : [Mon LinkedIn](https://www.linkedin.com/in/pierre-dovodji-52535222a)  
 - **Email** : [](mailto:@gmail.com)
 
 ## Licence
